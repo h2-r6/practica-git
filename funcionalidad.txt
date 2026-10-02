@@ -1,0 +1,2 @@
+Nueva funcionalidad del proyecto
+Descripción: módulo de alertas de seguridad
