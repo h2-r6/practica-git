@@ -1,0 +1,11 @@
+# Seguridad
+.env
+
+# Rendimiento y limpieza
+node_modules/
+.venv/
+
+# Basura del sistema
+.DS_Store
+.vscode/
+__pycache__/
